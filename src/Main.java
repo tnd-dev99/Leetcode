@@ -7,6 +7,7 @@ public class Main {
 //        ReverseInteger reverseInteger = new ReverseInteger();
 //        IntegerToRoman integerToRoman = new IntegerToRoman();
 //        ContainerWithMostWater containerWithMostWater = new ContainerWithMostWater();
-        LongestPalindromicSubstring longestPalindromicSubstring = new LongestPalindromicSubstring();
+//        LongestPalindromicSubstring longestPalindromicSubstring = new LongestPalindromicSubstring();
+        ZigzagConversion zigzagConversion = new ZigzagConversion();
     }
 }
