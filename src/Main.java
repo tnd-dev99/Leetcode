@@ -8,6 +8,7 @@ public class Main {
 //        IntegerToRoman integerToRoman = new IntegerToRoman();
 //        ContainerWithMostWater containerWithMostWater = new ContainerWithMostWater();
 //        LongestPalindromicSubstring longestPalindromicSubstring = new LongestPalindromicSubstring();
-        ZigzagConversion zigzagConversion = new ZigzagConversion();
+//        ZigzagConversion zigzagConversion = new ZigzagConversion();
+        StringToIntegerAtoi stringToIntegerAtoi = new StringToIntegerAtoi();
     }
 }
